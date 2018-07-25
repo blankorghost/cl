@@ -1,0 +1,23 @@
+ul{
+	list-style: none;
+
+}
+#h-nav{
+	position: fixed;
+	float: left;
+	margin-top: 200px;
+	margin-left:-60px;
+}
+#h-nav li{
+	line-height: 40px;
+}
+#h-nav input{
+	border-color: #169BD5;
+	border-radius: 5px;
+	width: 60px;
+	height: 30px;
+	margin-left: 30px;
+	background: #169BD5;
+	color: #fff;
+	text-align:center;
+}

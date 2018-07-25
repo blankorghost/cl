@@ -1,0 +1,19 @@
+.*{margin: 0; padding: 0}
+#regist-input{
+	text-align: center;
+	line-height: 50px;
+	width: auto;
+}
+#regist-input input{
+	width: 300px;
+	height: 30px;
+	font-size: 20px;
+}
+#btn{
+	width: auto;
+	margin-left: 20%;
+}
+#btn button{
+	width: 100px;
+	height: 45px;
+}

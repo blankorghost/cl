@@ -1,0 +1,35 @@
+
+a{
+	text-decoration: none;
+}
+a:link {
+	list-style:none;
+}
+a:hover {
+	list-style:none;
+}
+
+#hr1{
+	margin-top:120px;
+	width:95%;
+}
+#box{
+	margin-top:30px;
+	margin-bottom:20px;
+	margin-left:20px;
+	margin-right:7px;
+	width:250px;
+	height:430px;
+	align:center;
+	float:left;
+}
+#box img{
+	width:250px;
+	height:390px;
+	
+}
+#box span{
+	text-align:center;
+	display:block;
+	overflow:hidden;
+}

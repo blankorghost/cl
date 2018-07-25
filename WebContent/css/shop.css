@@ -1,0 +1,14 @@
+.search-shop{
+	float: right;
+	margin-right: 250px;
+	margin-top: -60px;
+}
+.search-shop input{
+	width: 400px;
+	height: 40px;
+}
+.search-shop button{
+	border: none;
+	background:#FF9900;
+	font-size: 35px;
+}
